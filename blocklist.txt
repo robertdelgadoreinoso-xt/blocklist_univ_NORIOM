@@ -1,6 +1,6 @@
 # Lista de bloqueo NORIOM (universal) — uso libre para tus equipos
 # Contiene: c2, malware, scanner
-# Actualizado: 2026-08-26 13:23 UTC
+# Actualizado: 2026-08-26 19:53 UTC
 # 367088 bloques CIDR de 412896 direcciones de origen (agrupación /24 IPv4, /48 IPv6)
 # Listas de origen (44):
 #   · AbuseIPDB 1d [scanner]
