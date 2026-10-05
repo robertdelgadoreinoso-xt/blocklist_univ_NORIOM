@@ -1,6 +1,6 @@
 # Lista de bloqueo NORIOM (universal) — uso libre para tus equipos
 # Contiene: c2, malware, scanner
-# Actualizado: 2026-10-05 03:54 UTC
+# Actualizado: 2026-10-05 10:09 UTC
 # 363096 bloques CIDR de 405513 direcciones de origen (agrupación /24 IPv4, /48 IPv6)
 # Listas de origen (44):
 #   · AbuseIPDB 1d [scanner]
@@ -147595,7 +147595,7 @@
 95.140.116.18/32  # iBlocklist CruzIT WEB Attacks[scanner]
 95.140.154.156/32  # FireHOL Abusers 30d[scanner]
 95.140.202.138/32  # AbuseIPDB 30d[scanner]
-95.141.17.0/24  # Blocklist de[scanner]_Blocklist de Apache[scanner]_Blocklist de Mail[scanner]_Blocklist.de[scanner]
+95.141.17.0/24  # Blocklist de[scanner]_Blocklist de Apache[scanner]_Blocklist de Mail[scanner]
 95.141.32.101/32  # FireHOL Abusers 30d[scanner]
 95.141.42.10/32  # FireHOL Abusers 30d[scanner]
 95.141.42.91/32  # AbuseIPDB 30d[scanner]
