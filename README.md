@@ -2,7 +2,7 @@
 
 **Qué contiene:** Mando y control (`c2`), Repartidores de malware (`malware`), Escáneres (`scanner`). Se publica sólo esto a propósito — ver más abajo.
 
-Lista única de IPs/prefijos maliciosos agregada en CIDR (369730 bloques de 412972 fuentes), con comentarios de las fuentes de origen (unidas por `_` cuando un mismo bloque proviene de varias listas). Actualizada automáticamente por NORIOM.
+Lista única de IPs/prefijos maliciosos agregada en CIDR (367756 bloques de 411161 fuentes), con comentarios de las fuentes de origen (unidas por `_` cuando un mismo bloque proviene de varias listas). Actualizada automáticamente por NORIOM.
 
 ## Archivos
 - `blocklist.txt` — un CIDR por línea. Raw: https://raw.githubusercontent.com/robertdelgadoreinoso-xt/blocklist_univ_NORIOM/main/blocklist.txt
